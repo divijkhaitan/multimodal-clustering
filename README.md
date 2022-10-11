@@ -1,0 +1,1 @@
+An attempt at implementing multimodal clustering as described by Van Hoan Do and Stefan Canzar in their paper "A generalization of t-SNE and UMAP to single-cell multimodal omics". Credit to them for the original paper as well as the data
